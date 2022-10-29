@@ -1,0 +1,13 @@
+- title: Current Courses
+  type: time_table
+  contents:
+    - title: Coming soon
+      institution:
+      year:
+
+- title: Past Courses
+  type: time_table
+  contents:
+    - title: Human 2.0 (MAS 600)
+      institution: Graduate Teaching Assistant, MIT
+      year: 2019, 2020

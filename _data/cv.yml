@@ -28,7 +28,7 @@
 - title: Publications
   type: list 
   contents:
-    - <a href="http://127.0.0.1:4000/publications/">see publications page</a>
+    - see publications page
 
 - title: Experience
   type: time_table
