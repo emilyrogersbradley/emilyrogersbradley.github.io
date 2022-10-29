@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Candidate, MIT Mechanical Engineering</a>. Precision machine design, wearable robotics, medical devices.
+subtitle: <a href='#'>PhD Candidate, MIT Mechanical Engineering</a>. Precision machine design, prostheses, exoskeletons.
 
 profile:
   align: right
@@ -18,8 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate in Mechanical Engineering at MIT.
+Emily Rogers-Bradley specializes in precision machine design and biomechanics for the development of robotic prosthetic and exoskeletal devices. She designs low-mass, low-power devices to replicate the core functionality of biological limbs for people with lower limb amputation or musculoskeletal disease. Her PhD work is in the MIT Biomechatronics Lab, where she has designed several robotic prostheses for people with lower limb amputation. Emily received a SM from MIT in Mechanical Engineering in 2019 and a SB in Biomedical Engineering from Harvard University in 2015. She spent two years in industry as a Mechatronics Engineer at Ekso Bionics, where she designed robotic exoskeletons for stroke and spinal cord injury rehabilitation. She also worked in the Harvard Biodesign Lab on the design of lower limb exoskeletons and rehabilitation devices. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Emily’s work has been featured in the [PBS NOVA documentary 'Augmented'](https://www.pbs.org/video/augmented-preview-qnsedb/), a permanent exhibit in the [Boston Museum of Science](https://virtualexhibits.mos.org/edw-engineering-stories/), and in a [TED Talk by Prof. Hugh Herr](https://www.ted.com/talks/hugh_herr_how_we_ll_become_cyborgs_and_extend_human_potential). She was awarded the National Science Foundation Graduate Research Fellowship, is the winner of the Harvard School of Engineering and Applied Sciences Dean's Award for Outstanding Engineering Projects, and received the 3rd Place award in the Design of Medical Devices Conference Student Design Showcase. Emily is a named inventor on three issued patents for her novel designs of prostheses and exoskeletons.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
